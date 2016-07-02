@@ -2,3 +2,13 @@ body {
     margin: 0;
     padding: 0;
 }
+header {
+    background-image: url(../images/empire.jpg);
+    height: 100vh;
+    background-size: cover;
+    color: #333;
+    font-family: sans-serif;
+}
+.content {
+    display: flex;
+}
