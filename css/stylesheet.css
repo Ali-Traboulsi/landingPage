@@ -38,7 +38,7 @@ header h4 {
 #new img {
     height: 15%;
     width: 15%;
-    margin-top: -900px;
-    display: block;
     float: left;
+    margin: 0.4%;
+    display: inline-grid;
 }
